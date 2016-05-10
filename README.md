@@ -11,21 +11,21 @@ Footprints, schematic symbols, and breakouts for Silicon Labs wireless modules a
 
 BGM111
 
-[BGM111_Footprint](/BGM111/BGM111_KiCad_Footprint.png)
+![BGM111_Footprint](/BGM111/BGM111_KiCad_Footprint.png)
 
-[BGM111_Part](/BGM111/BGM111_KiCad_Part.png)
+![BGM111_Part](/BGM111/BGM111_KiCad_Part.png)
 
 WGM110
 
-[WGM110_Footprint](/WGM110/WGM110_KiCad_Footprint.png)
+![WGM110_Footprint](/WGM110/WGM110_KiCad_Footprint.png)
 
-[WGM110_Part](/WGM110/WGM110_KiCad_Part.png)
+![WGM110_Part](/WGM110/WGM110_KiCad_Part.png)
 
 WT32i
 
-[WT32i_Footprint](/WT32i/WT32i_KiCad_Footprint.png)
+![WT32i_Footprint](/WT32i/WT32i_KiCad_Footprint.png)
 
-[WT32i_Part](/WT32i/WT32i_KiCad_Part.png)
+![WT32i_Part](/WT32i/WT32i_KiCad_Part.png)
 
 ## License
 
