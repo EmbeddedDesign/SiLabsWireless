@@ -3,6 +3,8 @@
 *.pro
 *.kicad_pcb
 *.sch
+*.bak
+*.bck
 
 #OS junk files
 [Tt]humbs.db
