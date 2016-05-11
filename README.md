@@ -3,13 +3,13 @@ Footprints, schematic symbols, and breakouts for Silicon Labs wireless modules a
 
 ## Current Parts:
 
-[BGM111](https://www.silabs.com/products/wireless/bluetooth/bluetooth-smart-modules/Pages/bgm111-bluetooth-smart-module.aspx)
-
-[EFR32BG](https://www.silabs.com/products/wireless/bluetooth/efr32-blue-gecko/pages/blue-gecko-bluetooth-smart-soc.aspx)
-
-[WGM110](https://www.silabs.com/products/wireless/wi-fi/wi-fi-modules/Pages/wgm110-wi-fi-module.aspx)
-
-[WT32i](https://www.silabs.com/products/wireless/bluetooth/bluetooth-classic-modules/pages/wt32i-bluetooth-audio-module.aspx)
+| SiLabs Part |
+|:-----------:|
+|[BGM111](https://www.silabs.com/products/wireless/bluetooth/bluetooth-smart-modules/Pages/bgm111-bluetooth-smart-module.aspx)|
+|[BLE113](https://www.silabs.com/products/wireless/bluetooth/bluetooth-smart-modules/pages/ble113-bluetooth-smart-module.aspx)|
+|[EFR32BG](https://www.silabs.com/products/wireless/bluetooth/efr32-blue-gecko/pages/blue-gecko-bluetooth-smart-soc.aspx)|
+|[WGM110](https://www.silabs.com/products/wireless/wi-fi/wi-fi-modules/Pages/wgm110-wi-fi-module.aspx)|
+|[WT32i](https://www.silabs.com/products/wireless/bluetooth/bluetooth-classic-modules/pages/wt32i-bluetooth-audio-module.aspx)|
 
 ## Examples:
 
