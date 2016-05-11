@@ -1,0 +1,9 @@
+#KiCad project files
+/SiLabsWirelessProject
+*.pro
+*.kicad_pcb
+*.sch
+
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
