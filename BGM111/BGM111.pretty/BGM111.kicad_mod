@@ -1,15 +1,18 @@
-(module BGM111 (layer F.Cu) (tedit 57322A88)
+(module BGM111 (layer F.Cu) (tedit 57337B33)
   (solder_paste_margin -0.1)
-  (fp_text reference U1 (at 0 -8.5) (layer F.SilkS) hide
+  (fp_text reference U1 (at 5.85 8.5) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value BGM111 (at 0 0) (layer F.Fab) hide
+  (fp_text value BGM111 (at 0 0) (layer Dwgs.User) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_line (start 3.72 -7.5) (end -3.72 -7.5) (layer F.Mask) (width 0.15))
-  (fp_line (start 3.72 -4.08) (end 3.72 -7.5) (layer F.Mask) (width 0.15))
-  (fp_line (start -3.72 -4.08) (end 3.72 -4.08) (layer F.Mask) (width 0.15))
-  (fp_line (start -3.72 -7.5) (end -3.72 -4.08) (layer F.Mask) (width 0.15))
+  (fp_text user "KEEPOUT POUR/TRACE" (at 0 -5.775) (layer Dwgs.User)
+    (effects (font (size 0.4 0.4) (thickness 0.075)))
+  )
+  (fp_line (start 3.75 -7.5) (end -3.75 -7.5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start 3.75 -4.05) (end 3.75 -7.5) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -3.75 -4.05) (end 3.75 -4.05) (layer Dwgs.User) (width 0.15))
+  (fp_line (start -3.75 -7.5) (end -3.75 -4.05) (layer Dwgs.User) (width 0.15))
   (fp_line (start 6.45 -7.5) (end -6.45 -7.5) (layer F.SilkS) (width 0.15))
   (fp_line (start 6.45 7.5) (end 6.45 -7.5) (layer F.SilkS) (width 0.15))
   (fp_line (start -6.45 7.5) (end 6.45 7.5) (layer F.SilkS) (width 0.15))
