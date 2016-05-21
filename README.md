@@ -7,6 +7,7 @@ Footprints, schematic symbols, and breakouts for Silicon Labs wireless modules a
 | ----- | :---: | :---: |
 |[BGM111](https://www.silabs.com/products/wireless/bluetooth/bluetooth-smart-modules/Pages/bgm111-bluetooth-smart-module.aspx)| X |   |
 |[BGM113](https://www.silabs.com/products/wireless/bluetooth/bluetooth-smart-modules/Pages/bgm113-bluetooth-smart-module.aspx)| X |   |
+|[BLE121LR](https://www.silabs.com/products/wireless/bluetooth/bluetooth-smart-modules/pages/ble121lr-bluetooth-smart-long-range-module.aspx)| X |   |
 |[BLE113](https://www.silabs.com/products/wireless/bluetooth/bluetooth-smart-modules/pages/ble113-bluetooth-smart-module.aspx)| X |   |
 |[EFR32BG](https://www.silabs.com/products/wireless/bluetooth/efr32-blue-gecko/pages/blue-gecko-bluetooth-smart-soc.aspx)| X |   |
 |[WGM110](https://www.silabs.com/products/wireless/wi-fi/wi-fi-modules/Pages/wgm110-wi-fi-module.aspx)| X | X |
