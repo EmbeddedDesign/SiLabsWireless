@@ -3,9 +3,9 @@ Footprints, schematic symbols, and breakouts for Silicon Labs wireless modules a
 
 ## Current Parts:
 
-| <img src="https://www.silabs.com/_layouts/1033/SiLabs/images/silicon-labs-logo.png" width="48"> | <img src="http://kicad-pcb.org/img/kicad_logo_small.png" width="48"> | <img src="https://www.cadsoft.de/fileadmin/journalist/home/CS_EAGLE_Logo_400px.jpg" width="48"> |
+| <img src="https://www.silabs.com/_layouts/1033/SiLabs/images/silicon-labs-logo.png" width="48"> | <img src="http://kicad-pcb.org/img/kicad_logo_small.png" width="48"> | <img src="https://cadsoft.io/site/templates/img/eagle_logo.png" width="48"> |
 | ----- | :---: | :---: |
-|[BGM111](https://www.silabs.com/products/wireless/bluetooth/bluetooth-smart-modules/Pages/bgm111-bluetooth-smart-module.aspx)| X |   |
+|[BGM111](https://www.silabs.com/products/wireless/bluetooth/bluetooth-smart-modules/Pages/bgm111-bluetooth-smart-module.aspx)| X | X |
 |[BGM113](https://www.silabs.com/products/wireless/bluetooth/bluetooth-smart-modules/Pages/bgm113-bluetooth-smart-module.aspx)| X |   |
 |[BLE121LR](https://www.silabs.com/products/wireless/bluetooth/bluetooth-smart-modules/pages/ble121lr-bluetooth-smart-long-range-module.aspx)| X |   |
 |[BLE113](https://www.silabs.com/products/wireless/bluetooth/bluetooth-smart-modules/pages/ble113-bluetooth-smart-module.aspx)| X |   |
