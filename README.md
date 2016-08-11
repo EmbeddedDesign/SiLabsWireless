@@ -17,9 +17,9 @@ Footprints, schematic symbols, and breakouts for Silicon Labs wireless modules a
 
 BGM111
 
-![BGM111_Footprint](/BGM111/BGM111_KiCad_Footprint.png)
+![BGM111_Footprint](/BGM111/KiCad/BGM111_KiCad_Footprint.png)
 
-![BGM111_Part](/BGM111/BGM111_KiCad_Part.png)
+![BGM111_Part](/BGM111/KiCad/BGM111_KiCad_Part.png)
 
 WGM110
 
