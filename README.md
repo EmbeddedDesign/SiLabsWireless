@@ -16,6 +16,12 @@ Footprints, schematic symbols, and breakouts for Silicon Labs wireless modules a
 
 ## Examples:
 
+BGM121
+
+![BGM121_Footprint](/BGM121/Eagle/BGM121_Eagle_Footprint.png)
+
+![BGM121_Part](/BGM121/Eagle/BGM121_Eagle_Part.png)
+
 BGM111
 
 ![BGM111_Footprint](/BGM111/KiCad/BGM111_KiCad_Footprint.png)
@@ -27,12 +33,6 @@ WGM110
 ![WGM110_Footprint](/WGM110/KiCad/WGM110_KiCad_Footprint.png)
 
 ![WGM110_Part](/WGM110/KiCad/WGM110_KiCad_Part.png)
-
-WT32i
-
-![WT32i_Footprint](/WT32i/WT32i_KiCad_Footprint.png)
-
-![WT32i_Part](/WT32i/WT32i_KiCad_Part.png)
 
 ## License
 
